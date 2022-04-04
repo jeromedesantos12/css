@@ -1,0 +1,31 @@
+ul#sarapan li {
+	color: green;
+}
+
+ul#sarapan li .favorit {
+	color: red;
+}
+
+/*
+----------------------------------
+
+ul#sarapan li  menang
+			   [hasinya jadi hijau]
+  0 1 0 2
+
+	 vs
+
+ .favorit	kalah 
+  0 0 1 0
+
+----------------------------------
+
+0 0 0 0
+
+digit 1 : inline
+digit 2 : id
+digit 3 : class
+digit 4 : element
+
+
+*/

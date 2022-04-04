@@ -1,0 +1,7 @@
+body {
+	background-color: lightskyblue;
+	background-size: 50%;
+	background-image: url(img/austin.png);
+	background-repeat: no-repeat;
+	background-position: top center;
+}  

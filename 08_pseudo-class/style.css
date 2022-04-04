@@ -1,0 +1,48 @@
+.hello:link {
+	color: orange;
+}
+
+.hello:hover {
+	font-family: arial;
+	font-size: 20px;
+}
+
+.hello:active {
+	font-style: italic;
+}
+
+.hello:visited {
+	color: red;
+}
+
+/*kelipatan 3 dimulai dari angka 1*/
+
+/*
+
+li:first-child a {
+	color: green;
+}
+
+li:last-child a {
+	color: green;
+}
+
+li:nth-child(3n-2) a {
+	color: green;
+}
+
+*/
+
+/*odd or even*/
+
+li:nth-child(odd) a {
+	color: green;
+}
+
+li:nth-child(odd) a:hover {
+	color: red;
+}
+
+p:last-of-type {
+	color: red;
+}
